@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MP1 Memory Game</string>
+    <string name="timer_text">60 seconds</string>
+    <string name="instructions">Select a pair of boxes to reveal.</string>
+    <string name="times_up">Time\'s Up!</string>
+    <string name="student_info">202312198: Jasmin Joyce F. Obligado</string>
+    <string name="pair_correct">Pair is correct, select new pair</string>
+    <string name="no_match">Boxes do not match. Try Again!</string>
+    <string name="you_win">You win!</string>
+    <string name="time_up_lose">You Lose!</string>
+    <string name="restart_button">Restart</string>
+</resources>

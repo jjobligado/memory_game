@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="darkgray">#202020</color>
+    <color name="yellow_main">#FFF2A8</color>
+    <color name="yellow_shadow">#CFC38A</color>
+    <color name="green_main">#7BB24A</color>
+    <color name="green_shadow">#45612C</color>
+    <color name="red_main">#F77364</color>
+    <color name="red_shadow">#A04B43</color>
+</resources>
